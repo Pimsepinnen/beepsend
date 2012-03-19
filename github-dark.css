@@ -50,8 +50,8 @@
   display: none !important;
  }
  body.documentation div#header a.logo {
-  display: block !important;
-  width: 179px !important;
+  display: inline !important;
+  width: 144px !important;
   height: 45px !important;
   background: url(http://mottie.github.com/Github-Dark/images/logo.png) no-repeat !important;
  }
